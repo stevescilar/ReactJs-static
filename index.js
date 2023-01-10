@@ -1,1 +1,1 @@
-ReactDOM.render(<h1>Hello, Worketh not!</h1>, document.getElementById("root"))
+ReactDOM.render(<h1>Hello, worlg!</h1>, document.getElementById("root"))
